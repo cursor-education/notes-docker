@@ -1,4 +1,4 @@
-- problem
+- the problem
  - zoo of old VPS
  - expensive IaaS & PaaS with vendor lock in
  - unique servers (single failure point)
